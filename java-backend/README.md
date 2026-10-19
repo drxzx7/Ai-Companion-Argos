@@ -149,4 +149,4 @@ argos:
 ---
 
 ## Author & Contributions
-- **Backend Architecture & Java Development**: **x_drxzx_x** ([mssdkkl@gmail.com](mailto:mssdkkl@gmail.com))
+- **Backend Architecture & Java Development**: **x_drxzx_x** ([@drxzx7](https://github.com/drxzx7) • [mssdkkl@gmail.com](mailto:mssdkkl@gmail.com))

@@ -143,7 +143,7 @@ ibmbobproject/
 
 This project was built collaboratively by:
 
-- **x_drxzx_x** ([mssdkkl@gmail.com](mailto:mssdkkl@gmail.com)) — **Backend Developer (Java & AI Architecture)**
+- **x_drxzx_x** ([@drxzx7](https://github.com/drxzx7) • [mssdkkl@gmail.com](mailto:mssdkkl@gmail.com)) — **Backend Developer (Java & AI Architecture)**
   - Engineered the entire Java Spring Boot enterprise service (`java-backend/`).
   - Created the Multi-Model AI Router supporting Gemini 3.8 Flash, GPT-6 Astra, and Fable 5.1 with resilient cascades and zero-config offline simulation.
   - Implemented the Command Planner & Intent Engine (`CommandPlannerService`) parsing robot facial expressions, hand gestures, and timed expression sequence arrays (`[TOOL:EXPRSEQ]`).
